@@ -1,0 +1,2 @@
+- El fichero 'generarQR.py' permite generar una imagen con un codigo QR que codifica el texto introducido (parametro -h para ver la ayuda)
+- El fichero 'leerQR.py' genera un archivo de texto con el contenido decodificado el codigo QR pasado como argumento
